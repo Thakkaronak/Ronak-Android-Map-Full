@@ -142,7 +142,6 @@
      * Playstore
 * Keep Learning and Improving
 
-
 ## [RonakEnterprise](http://ronakandroid.github.io/)
 
 ### Found this project useful :heart:
